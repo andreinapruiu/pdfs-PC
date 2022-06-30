@@ -1,2 +1,3 @@
 # pdfs-PC
-Repo containing pdfs of the homeworks for PC
+Repo containing pdfs of PC's homeworks.
+> Everything can be downloaded.
